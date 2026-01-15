@@ -1,1 +1,0 @@
-export const LITLYX_PROJECT_ID = '6643cd08a1854e3b81722ab5';
